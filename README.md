@@ -11,7 +11,7 @@ To use any of the algorithms in this repository, simply download or clone the re
 ### Example Usage:
 
 ```python
-import manacher_longest_substring
+form manacher_longest_substring import manacher_longest_substring
 
 # Find the longest palindromic substring in a string
 result = manacher_longest_substring("racecar")
