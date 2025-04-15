@@ -11,10 +11,10 @@ To use any of the algorithms in this repository, simply download or clone the re
 ### Example Usage:
 
 ```python
-from manacher import manacher_length_only
+import manacher_longest_substring
 
 # Find the longest palindromic substring in a string
-result = manacher_length_only("racecar")
+result = manacher_longest_substring("racecar")
 print(result)  # Output: 'racecar'
 ```
 
