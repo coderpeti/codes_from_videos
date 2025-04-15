@@ -1,4 +1,4 @@
-def manacher_length_only(s: str) -> str:
+def manacher_longest_substring(s: str) -> str:
     # Return an empty string if input is empty
     if not s:
         return ""
@@ -44,6 +44,6 @@ def manacher_length_only(s: str) -> str:
     return s[start:start + max_len]
     
 
-print(manacher_length_only("abba"))  # Output: 'abba'
-print(manacher_length_only("racecar"))  # Output: 'racecar'
-print(manacher_length_only("abcde"))  # Output: 'a'
+print(manacher_longest_substring("abba"))  # Output: 'abba'
+print(manacher_longest_substring("racecar"))  # Output: 'racecar'
+print(manacher_longest_substring("abcde"))  # Output: 'a'
