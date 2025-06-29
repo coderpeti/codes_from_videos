@@ -25,6 +25,6 @@ This project is open-source and available under the MIT License.
 ## Author
 
 Created by: Péter Kóder
-Email: koderpeter13@gmail.com / harmonhealth2024@gmail.com
+Email: petercoder.dev@gmail.com
 GitHub: coderpeti
 YouTube: @peter_koder
